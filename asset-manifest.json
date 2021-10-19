@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ugly-faces-with-react/static/css/main.6810c6c3.chunk.css",
+    "main.js": "/ugly-faces-with-react/static/js/main.81e5e2df.chunk.js",
+    "main.js.map": "/ugly-faces-with-react/static/js/main.81e5e2df.chunk.js.map",
+    "runtime-main.js": "/ugly-faces-with-react/static/js/runtime-main.56677e4c.js",
+    "runtime-main.js.map": "/ugly-faces-with-react/static/js/runtime-main.56677e4c.js.map",
+    "static/js/2.49dccf28.chunk.js": "/ugly-faces-with-react/static/js/2.49dccf28.chunk.js",
+    "static/js/2.49dccf28.chunk.js.map": "/ugly-faces-with-react/static/js/2.49dccf28.chunk.js.map",
+    "static/js/3.0d20df99.chunk.js": "/ugly-faces-with-react/static/js/3.0d20df99.chunk.js",
+    "static/js/3.0d20df99.chunk.js.map": "/ugly-faces-with-react/static/js/3.0d20df99.chunk.js.map",
+    "index.html": "/ugly-faces-with-react/index.html",
+    "static/css/main.6810c6c3.chunk.css.map": "/ugly-faces-with-react/static/css/main.6810c6c3.chunk.css.map",
+    "static/js/2.49dccf28.chunk.js.LICENSE.txt": "/ugly-faces-with-react/static/js/2.49dccf28.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56677e4c.js",
+    "static/js/2.49dccf28.chunk.js",
+    "static/css/main.6810c6c3.chunk.css",
+    "static/js/main.81e5e2df.chunk.js"
+  ]
+}
